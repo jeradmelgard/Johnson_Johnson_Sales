@@ -1,11 +1,4 @@
-fastjsonschema==2.20.0
-importlib-metadata==8.7.0
-json5==0.9.2
-jupyterlab==4.2.5
-plotly==5.24.1
 pip==25.2
-cloudpickle==3.1.1
-GitPython==3.1.45
 keras==3.10.0
 matplotlib==3.10.0
 numpy==2.0.2
